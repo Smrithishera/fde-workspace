@@ -1,0 +1,6 @@
+{
+  "name": "GenAI Forward Deployed Eng Workspace",
+  "description": "An interactive workspace simulating the 5 domains of a Generative AI Forward Deployed Engineer at Google Cloud, covering agent workflows, RAG pipelines, enterprise connectors, LLM evals, and field product loops.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
